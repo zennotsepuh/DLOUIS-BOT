@@ -1,0 +1,9 @@
+{
+  "anticall": false,
+  "autoread": false,
+  "autotype": false,
+  "selfMode": false,
+  "publicMode": true,
+  "welcome": true,
+  "antitoxic": false
+}
